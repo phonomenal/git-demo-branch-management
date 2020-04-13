@@ -1,14 +1,14 @@
 Shopping List
 
-apples
-yogurt
 sour chips
 dips
+red apples
 6 bananas
+vanilla yogurt
 2% milk
 wheat bread
 cereal
-eggs
+12 eggs
 bacon
 orange juice
 grapes
