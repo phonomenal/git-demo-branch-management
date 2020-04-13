@@ -12,6 +12,7 @@ cereal
 bacon
 orange juice
 grapes
+limes
 lemons
 lettuce
 rice
