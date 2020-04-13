@@ -1,9 +1,11 @@
 Shopping List
 
 apples
-bananas
 yogurt
-milk
+sour chips
+dips
+6 bananas
+2% milk
 wheat bread
 cereal
 eggs
