@@ -4,7 +4,7 @@ apples
 bananas
 yogurt
 milk
-bread
+wheat bread
 cereal
 eggs
 bacon
@@ -21,3 +21,6 @@ butter
 eggs
 pudding
 Soup2
+coffee
+tomatoes
+pears
